@@ -1,0 +1,7 @@
+.Card {
+    flex: 1;
+    border: yellow solid 1px;
+    max-width: 200px;
+    margin: auto;
+    text-align: center;
+}
